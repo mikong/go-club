@@ -6,6 +6,11 @@
 - 5 players, 5 rounds
 - even game, Japanese rules, 6.5 komi
 - time setting: 20 minutes + Japanese byo-yomi 3x30 seconds
+- tiebreaker rules[^1]:
+  - 2-way: head-to-head (H2H) - winner of the game played between the two
+  - 3-way: sum of defeated opponents' scores (SODOS) - sum the scores each player defeated
+  - 4-way: not possible
+  - 5-way: no tiebreaking rules will be applied
 
 ## Schedule
 
@@ -52,3 +57,7 @@ Round 5
 | C   |     |     | x   |     |     |       |
 | D   |     |     |     | x   |     |       |
 | E   |     |     |     |     | x   |       |
+
+## Footnotes
+
+[^1]: Tiebreaker rules: In a round robin tournament, sum of opponents' scores (SOS) is not useful. The players who tie will have played the same opponents and so will have the same SOS score.
