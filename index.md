@@ -1,5 +1,3 @@
-# Mikong's Go Club
-
 ## Events
 
 ### 2026
