@@ -19,7 +19,18 @@
 
 ## Schedule
 
-- Saturday, May 23, 2026
+**Saturday, May 23, 2026**
+
+- 09:30 - meetup time
+- 10:00 - brief orientation
+- 10:15 - round 1
+- 11:50 - round 2
+- 13:20 - lunch break
+- 14:00 - round 3
+- 15:35 - round 4
+- 17:10 - round 5
+- 18:45 - results
+- 19:00 - dinner (optional)
 
 ## Rounds
 
