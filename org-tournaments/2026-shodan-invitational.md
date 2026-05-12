@@ -6,11 +6,16 @@
 - 5 players, 5 rounds
 - even game, Japanese rules, 6.5 komi
 - time setting: 20 minutes + Japanese byo-yomi 3x30 seconds
+- final ranking will be based on number of wins
+
+### Additional Rules
+
 - tiebreaker rules[^1]:
   - 2-way: head-to-head (H2H) - winner of the game played between the two
   - 3-way: sum of defeated opponents' scores (SODOS) - sum the scores each player defeated
   - 4-way: not possible
   - 5-way: no tiebreaking rules will be applied
+- triple ko: superko rule is applied, i.e. prohibit recurrences of an earlier board position
 
 ## Schedule
 
@@ -50,13 +55,21 @@ Round 5
 
 ### Results
 
-|     | A   | B   | C   | D   | E   | Score |
-| --- | --- | --- | --- | --- | --- | ----- |
-| A   | x   |     |     |     |     |       |
-| B   |     | x   |     |     |     |       |
-| C   |     |     | x   |     |     |       |
-| D   |     |     |     | x   |     |       |
-| E   |     |     |     |     | x   |       |
+|     | A   | B   | C   | D   | E   | Wins | SODOS |
+| --- | --- | --- | --- | --- | --- | ---- | ----- |
+| A   | x   |     |     |     |     |      |       |
+| B   |     | x   |     |     |     |      |       |
+| C   |     |     | x   |     |     |      |       |
+| D   |     |     |     | x   |     |      |       |
+| E   |     |     |     |     | x   |      |       |
+
+### Final Ranking
+
+1. TODO
+2.
+3.
+4.
+5.
 
 ## Footnotes
 
