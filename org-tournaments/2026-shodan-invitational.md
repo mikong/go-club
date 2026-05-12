@@ -21,16 +21,18 @@
 
 **Saturday, May 23, 2026**
 
-- 09:30 - meetup time
-- 10:00 - brief orientation
-- 10:15 - round 1
-- 11:50 - round 2
-- 13:20 - lunch break
-- 14:00 - round 3
-- 15:35 - round 4
-- 17:10 - round 5
-- 18:45 - results
-- 19:00 - dinner (optional)
+| Time  | Activity     |
+| ----- | ------------ |
+| 09:30 | Meetup time  |
+| 10:00 | Orientation  |
+| 10:15 | Round 1      |
+| 11:50 | Round 2      |
+| 13:20 | Lunch        |
+| 14:00 | Round 3      |
+| 15:35 | Round 4      |
+| 17:10 | Round 5      |
+| 18:45 | Results      |
+| 19:00 | Dinner (opt) |
 
 ## Rounds
 
