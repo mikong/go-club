@@ -34,6 +34,14 @@
 | 18:45 | Results      |
 | 19:00 | Dinner (opt) |
 
+## Participants (alphabetical)
+
+1. de Castro
+2. Galero
+3. Javier
+4. Oamil
+5. Yiu
+
 ## Rounds
 
 Round 1
@@ -79,10 +87,10 @@ Round 5
 ### Final Ranking
 
 1. TODO
-2.
-3.
-4.
-5.
+2. -
+3. -
+4. -
+5. -
 
 ## Footnotes
 
