@@ -34,6 +34,12 @@
 | 18:45 | Results      |
 | 19:00 | Dinner (opt) |
 
+## Venue
+
+The Glass House at the University Hotel
+Guerrero St cor. Aglipay St., Diliman, Quezon City
+Metro Manila, Philippines
+
 ## Participants (alphabetical)
 
 1. de Castro
