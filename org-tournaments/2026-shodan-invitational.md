@@ -36,8 +36,9 @@
 
 ## Venue
 
-The Glass House at the University Hotel
-Guerrero St cor. Aglipay St., Diliman, Quezon City
+**The Glass House** at the University Hotel  
+Guerrero St. cor. Aglipay St.  
+Diliman, Quezon City  
 Metro Manila, Philippines
 
 ## Participants (alphabetical)
