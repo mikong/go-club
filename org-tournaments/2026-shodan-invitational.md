@@ -41,13 +41,13 @@ Guerrero St. cor. Aglipay St.
 Diliman, Quezon City  
 Metro Manila, Philippines
 
-## Participants (alphabetical)
+## Participants (Lots)
 
-1. de Castro
-2. Galero
-3. Javier
-4. Oamil
-5. Yiu
+A. Galero
+B. de Castro
+C. Yiu
+D. Javier
+E. Oamil
 
 ## Rounds
 
@@ -85,11 +85,11 @@ Round 5
 
 |     | A   | B   | C   | D   | E   | Wins | SODOS |
 | --- | --- | --- | --- | --- | --- | ---- | ----- |
-| A   | x   |     |     |     |     |      |       |
-| B   |     | x   |     |     |     |      |       |
-| C   |     |     | x   |     |     |      |       |
-| D   |     |     |     | x   |     |      |       |
-| E   |     |     |     |     | x   |      |       |
+| A   | x   | 1   | 1   | 1   | 0   | 3    |       |
+| B   | 0   | x   |     | 0   | 0   | 0    |       |
+| C   | 0   |     | x   | 0   | 0   | 0    |       |
+| D   | 0   | 1   | 1   | x   |     | 2    |       |
+| E   | 1   | 1   | 1   |     | x   | 3    |       |
 
 ### Final Ranking
 
