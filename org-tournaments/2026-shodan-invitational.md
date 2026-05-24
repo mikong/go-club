@@ -43,11 +43,11 @@ Metro Manila, Philippines
 
 ## Participants (Lots)
 
-A. Galero
-B. de Castro
-C. Yiu
-D. Javier
-E. Oamil
+A: Galero
+B: de Castro  
+C: Yiu  
+D: Javier  
+E: Oamil
 
 ## Rounds
 
