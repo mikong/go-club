@@ -43,7 +43,7 @@ Metro Manila, Philippines
 
 ## Participants (Lots)
 
-A: Galero
+A: Galero  
 B: de Castro  
 C: Yiu  
 D: Javier  
@@ -83,13 +83,13 @@ Round 5
 
 ### Results
 
-|     | A   | B   | C   | D   | E   | Wins | SODOS |
-| --- | --- | --- | --- | --- | --- | ---- | ----- |
-| A   | x   | 1   | 1   | 1   | 0   | 3    | 3     |
-| B   | 0   | x   | 1   | 0   | 0   | 1    | 0     |
-| C   | 0   | 0   | x   | 0   | 0   | 0    | 0     |
-| D   | 0   | 1   | 1   | x   | 0   | 2    | 1     |
-| E   | 1   | 1   | 1   | 1   | x   | 4    | 6     |
+|              | A   | B   | C   | D   | E   | Wins | SODOS |
+| ------------ | --- | --- | --- | --- | --- | ---- | ----- |
+| A: Galero    | x   | 1   | 1   | 1   | 0   | 3    | 3     |
+| B: de Castro | 0   | x   | 1   | 0   | 0   | 1    | 0     |
+| C: Yiu       | 0   | 0   | x   | 0   | 0   | 0    | 0     |
+| D: Javier    | 0   | 1   | 1   | x   | 0   | 2    | 1     |
+| E: Oamil     | 1   | 1   | 1   | 1   | x   | 4    | 6     |
 
 ### Final Ranking
 
