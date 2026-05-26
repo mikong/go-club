@@ -133,7 +133,7 @@ Round 5
 
 | Board | Black     | White  | Result | Link                                       |
 | ----- | --------- | ------ | ------ | ------------------------------------------ |
-| 1     | Oamil     | Javier | B+T    | [OGS](https://online-go.com/demo/1706578)  |
+| 1     | Oamil     | Javier | B+T    | [OGS](https://online-go.com/game/87323064) |
 | 2     | de Castro | Yiu    | B+R    | [OGS](https://online-go.com/game/87297987) |
 
 ## Footnotes
