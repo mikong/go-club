@@ -117,17 +117,17 @@ Round 5
 
 #### Round 3
 
-| Board | Black  | White  | Result | Link                                       |
-| ----- | ------ | ------ | ------ | ------------------------------------------ |
-| 1     | Javier | Galero | W+R    | [OGS](https://online-go.com/demo/1706504)  |
-| 2     | Yiu    | Oamil  | W+R    | [OGS](https://online-go.com/game/87297619) |
+| Board | Black  | White  | Result | Link                                       | Game Review                             |
+| ----- | ------ | ------ | ------ | ------------------------------------------ | --------------------------------------- |
+| 1     | Javier | Galero | W+R    | [OGS](https://online-go.com/demo/1706504)  | [YouTube](https://youtu.be/fJajzU3NbjM) |
+| 2     | Yiu    | Oamil  | W+R    | [OGS](https://online-go.com/game/87297619) | [YouTube](https://youtu.be/WODHKbUGdgk) |
 
 #### Round 4
 
-| Board | Black     | White  | Result | Link                                       |
-| ----- | --------- | ------ | ------ | ------------------------------------------ |
-| 1     | Galero    | Oamil  | W+0.5  | [OGS](https://online-go.com/demo/1706531)  |
-| 2     | de Castro | Javier | W+9.5  | [OGS](https://online-go.com/game/87297862) |
+| Board | Black     | White  | Result | Link                                       | Game Review                             |
+| ----- | --------- | ------ | ------ | ------------------------------------------ | --------------------------------------- |
+| 1     | Galero    | Oamil  | W+0.5  | [OGS](https://online-go.com/demo/1706531)  | [YouTube](https://youtu.be/s6o3ww0w5zo) |
+| 2     | de Castro | Javier | W+9.5  | [OGS](https://online-go.com/game/87297862) |                                         |
 
 #### Round 5
 
