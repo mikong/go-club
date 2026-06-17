@@ -7,3 +7,4 @@
 - DeepBaduk Simultaneous Teaching Games (livestreamed by BadukBum) - April 18
   - [Review of my game](https://youtu.be/xDGLlse4nY4?si=c_I2FwCqN53YcoFz)
 - [Shodan Invitational - May 2026](/org-tournaments/2026-shodan-invitational.md)
+- [Dan Upgrading Competition - June 2026](/intl-tournaments/202606-dan-upgrading.md)
