@@ -103,9 +103,9 @@ Round 5
 
 #### Round 1
 
-| Board | Black     | White  | Result | Link                                       |
-| ----- | --------- | ------ | ------ | ------------------------------------------ |
-| 1     | de Castro | Galero | W+R    | [OGS](https://online-go.com/demo/1706406)  |
+| Board | Black     | White  | Result | Link                                       | Game Review                                            |
+| ----- | --------- | ------ | ------ | ------------------------------------------ | ------------------------------------------------------ |
+| 1     | de Castro | Galero | W+R    | [OGS](https://online-go.com/demo/1706406)  | [YouTube](https://www.youtube.com/watch?v=G-qoxNCZpRI) |
 | 2     | Javier    | Yiu    | B+R    | [OGS](https://online-go.com/game/87297151) |
 
 #### Round 2
