@@ -1,7 +1,7 @@
 # Thailand International Go Congress 2026
 
-Central Bangna
-Bangkok, Thailand
+Central Bangna  
+Bangkok, Thailand  
 October 24-25, 2026
 
 ## Rules for Elite (2-3 Dan) Category
