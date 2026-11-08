@@ -13,3 +13,4 @@
 - DeepBaduk Simultaneous Teaching Games - September 12
   - [Review of all simul games](https://www.youtube.com/watch?v=p-s2fkx8p9E)
 - [5th Thailand International Go Congress - October 24-25](/intl-tournaments/202610-thailand-go-congress.md)
+- [North Star Go Tournament 2026 - November 7](/org-tournaments/2026-north-star-go-tournament.md)
