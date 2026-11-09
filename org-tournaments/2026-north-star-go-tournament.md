@@ -17,9 +17,9 @@
 
 ## Venue
 
-Seminar Room, 3F
-UP College of Social Work and Community Development (CSWCD)
-Magsaysay Avenue, UP Diliman Quezon City
+Seminar Room, 3F  
+UP College of Social Work and Community Development (CSWCD)  
+Magsaysay Avenue, UP Diliman Quezon City  
 Metro Manila, Philippines
 
 https://maps.app.goo.gl/exhu4jTdMzhA3gPP8
